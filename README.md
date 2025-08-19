@@ -1,5 +1,5 @@
 -<h1 align="center">HII 👋, I AM PRAVALIKA MUTHOJU</h1>
-<h3 align="center">Aspiring AI/ML Engineer |BTech CSE 2nd year Student | AIML specialisation |</h3>
+<h3 align="center">Aspiring AI/ML Engineer |BTech CSE 3rd year Student | AIML specialisation |</h3>
 <h3 align="right" alt="coding"width="400"src="https://www.google.com/imgres?q=ANIMATED%20%20CODING%20GIF%20%20GIRL&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1364029%2Fscreenshots%2F16093268%2Fmedia%2F68e82a7fb4904614a9066d6b540c14b2.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&docid=ZxkZXuCs4TZ-3M&tbnid=VS8-fxCkM29JmM&vet=12ahUKEwiuw77to4GIAxXkoK8BHeItEFQQM3oECHsQAA..i&w=1600&h=1200&hcb=2&ved=2ahUKEwiuw77to4GIAxXkoK8BHeItEFQQM3oECHsQAA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravalikamuthoju&label=Profile%20views&color=0e75b6&style=flat" alt="pravalikamuthoju" /> </p>
