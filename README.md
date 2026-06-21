@@ -125,8 +125,7 @@ I love bringing ideas to life through intelligent systems & automation!
 
 ---
 
-## 💜 Fun Stuff  
-- 😄 Pronouns: **She/Her**  
+## 💜 Fun Stuff 
 - 🤖 Passion: turning **ideas → AI models**  
 - ⚡ Fun fact: *I debug faster with coffee ☕*  
 
