@@ -1,152 +1,211 @@
-<h1 align="center">
-⚡ Hi, I'm Pravalika Muthoju ⚡
-</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Research Enthusiast
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=PRAVALIKA%20MUTHOJU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-Building AI-powered solutions, intelligent systems, and scalable applications.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress+🤖;Full+Stack+Developer+💻;Reinforcement+Learning+Researcher+🔬;Patent+Holder+📜;Building+Intelligent+Systems+⚡"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Reinforcement+Learning+Researcher;Patent+Holder;Building+Intelligent+Systems+for+Real-World+Impact" />
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-🎓 B.Tech CSE (AI & ML) @ SR University
+# 🚀 DIGITAL PROFILE
 
-📊 CGPA: **9.2**
+</div>
 
-🔬 Research Intern at **NIT Warangal**
+```python
+class PravalikaMuthoju:
 
-⚡ Full Stack Developer Intern at **APTRANSCO**
+    education = "B.Tech CSE (AI & ML)"
+    university = "SR University"
+    cgpa = "9.2"
 
-🤖 AI Developer Intern at **Swecha Telangana**
+    current_roles = [
+        "Full Stack Developer Intern @ APTRANSCO",
+        "Research Intern @ NIT Warangal",
+        "AI Developer Intern @ Swecha Telangana"
+    ]
 
-📜 Patent Published:
+    skills = [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Deep Learning",
+        "Generative AI",
+        "Computer Vision",
+        "Full Stack Development"
+    ]
+
+    mission = "Using AI to solve real-world problems"
+
+print("Welcome to my GitHub Universe 🚀")
+```
+
+---
+
+# 🌌 ABOUT ME
+
+🔹 AI & ML Enthusiast passionate about intelligent systems
+
+🔹 Reinforcement Learning Research Intern at NIT Warangal
+
+🔹 Full Stack Developer Intern at APTRANSCO
+
+🔹 AI Developer Intern at Swecha Telangana
+
+🔹 Patent Published:
 **AI-Powered Career Guidance System using NLP & LLMs**
 
-💡 Passionate about:
+🔹 Interested in:
 
 - Artificial Intelligence
 - Machine Learning
+- Deep Learning
 - Reinforcement Learning
 - Generative AI
+- Large Language Models
 - Full Stack Development
-- Intelligent Automation
 
 ---
 
-# 🏆 Highlights
+# ⚡ TECH UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,postgresql,mysql,git,github,vscode,linux,c"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
 
 🏅 Patent Published
 
-🏅 IEEE Hyderabad Project Expo – 3rd Prize
+🏅 IEEE Hyderabad Project Expo — 3rd Prize
 
-🏅 Smart India Hackathon – Top 5%
+🏅 Smart India Hackathon — Top 5%
 
-🏅 APTRANSCO Internship Selection among IIT/NIT participants
+🏅 APTRANSCO National Internship Selection
 
-🏅 Microsoft Azure AI Fundamentals Certified
+🏅 Microsoft Azure AI-900 Certified
 
 🏅 NVIDIA Deep Learning Certified
 
 🏅 Salesforce AI Associate Certified
 
----
-
-# ⚡ Tech Arsenal
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### AI & ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### Full Stack
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+🏅 Strong Academic Performance (CGPA 9.2)
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-## ⚡ AI-Powered Career Guidance System
-Patent Published
+### 🤖 AI-Powered Career Guidance System
 
-- NLP + LLM Based Recommendation Engine
-- Multilingual Support
-- Personalized Career Suggestions
+📌 Patent Published
 
----
+🔹 NLP + LLM Based Recommendation System
 
-## ⚡ Battery-Powered Smart Grid Optimizer
+🔹 Multilingual Career Suggestions
 
-- Reinforcement Learning Based Energy Optimization
-- Intelligent Load Balancing
-- Smart Energy Distribution
+🔹 Personalized AI Guidance
 
 ---
 
-## ⚡ APTRANSCO Shakti Portal
+### ⚡ Smart Grid Optimizer using Reinforcement Learning
 
-- Transmission Loss Monitoring
-- Energy Billing Automation
-- Django + PostgreSQL
-- Enterprise Scale Government Application
+🔹 Intelligent Load Balancing
 
----
+🔹 Energy Distribution Optimization
 
-## ⚡ YOLOv8 Object Detection Assistant
-
-- Real-time Object Detection
-- Audio Feedback System
-- Accessibility Focused AI Solution
+🔹 RL-Based Decision Making
 
 ---
 
-# 📈 GitHub Analytics
+### 🌐 APTRANSCO Shakti Portal
+
+🔹 Transmission Loss Monitoring
+
+🔹 Energy Billing Automation
+
+🔹 Django + PostgreSQL
+
+🔹 Enterprise Scale Government Project
+
+---
+
+### 👁️ YOLOv8 Object Detection Assistant
+
+🔹 Real-Time Object Detection
+
+🔹 Audio Feedback System
+
+🔹 Accessibility-Focused AI
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PravalikaMuthoju&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PravalikaMuthoju&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PravalikaMuthoju&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PravalikaMuthoju&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PravalikaMuthoju&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravalikaMuthoju&layout=compact&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 CONNECT WITH ME
 
-💼 LinkedIn:
-www.linkedin.com/in/pravalika-muthoju-024ab12a8
+<div align="center">
 
-📧 Email:
-muthojupravalika99@gmail.com
+<a href="https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub:
-github.com/PravalikaMuthoju
+<a href="mailto:muthojupravalika99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PravalikaMuthoju">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">
-⚡ "Building AI solutions that create real-world impact." ⚡
-</h3>
+<div align="center">
+
+## 💫 AI • Research • Innovation • Impact
+
+### "Turning Ideas into Intelligent Solutions"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+
+</div>
