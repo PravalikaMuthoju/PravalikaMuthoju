@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff3cac,50:784ba0,100:2b86c5&text=PRAVALIKA%20MUTHOJU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI+Engineer+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+in+Progress+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=PravalikaMuthoju&label=PROFILE+VIEWS&color=ff3cac&style=for-the-badge"/>
 
@@ -15,8 +15,6 @@
 <div align="center">
 
 # 🌌 Welcome To My Digital Universe
-
-<img src="./assets/ai-avatar.png" width="320"/>
 
 ### 🚀 AI Engineer • Researcher • Developer
 
@@ -29,21 +27,21 @@
 ```python
 class PravalikaMuthoju:
 
-    role = "AI Engineer | Full Stack Developer"
+    role = "AI/ML Engineer | Full Stack Developer"
 
     education = {
-        "University": "SR University",
         "Degree": "B.Tech CSE (AI & ML)",
-        "CGPA": 9.2
+        "University": "SR University",
+        "CGPA": "9.2"
     }
 
-    internships = [
+    current_roles = [
         "Full Stack Developer Intern @ APTRANSCO",
         "Research Intern @ NIT Warangal",
         "AI Developer Intern @ Swecha Telangana"
     ]
 
-    interests = [
+    ai_interests = [
         "Machine Learning",
         "Deep Learning",
         "Reinforcement Learning",
@@ -52,35 +50,26 @@ class PravalikaMuthoju:
         "Generative AI"
     ]
 
-    mission = "Turning innovative ideas into intelligent solutions"
+    mission = "Turning ideas into intelligent real-world solutions"
 
-print("Welcome to my GitHub 🚀")
+print("Welcome to my GitHub Universe 🚀")
 ```
 
 ---
 
 # 🌟 About Me
 
-🎓 B.Tech CSE (AI & ML) Student at SR University
+✨ B.Tech CSE **AI & ML** student at **SR University**
 
-⚡ Full Stack Developer Intern at APTRANSCO
+⚡ Full Stack Developer Intern at **APTRANSCO**
 
-🔬 Reinforcement Learning Research Intern at NIT Warangal
+🔬 Research Intern at **NIT Warangal**
 
-🤖 AI Developer Intern at Swecha Telangana
+🤖 AI Developer Intern at **Swecha Telangana**
 
-📜 Patent Published:
-AI-Powered Career Guidance System using NLP & LLMs
+📜 Patent Published: **AI-Powered Career Guidance System using NLP & LLMs**
 
-💡 Passionate about:
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Computer Vision
-- Generative AI
-- Full Stack Development
+💡 Passionate about **AI, ML, RL, GenAI, Computer Vision, NLP, and Full Stack Development**
 
 ---
 
@@ -92,23 +81,14 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 </div>
 
-### Achievements
-
-🥉 IEEE Hyderabad Project Expo — 3rd Prize
-
-🚀 Smart India Hackathon — Top 5%
-
-📜 Patent Published
-
-⚡ APTRANSCO Internship Selection
-
-🤖 Microsoft Azure AI-900 Certified
-
-🧠 NVIDIA Deep Learning Certified
-
-☁️ Salesforce AI Associate Certified
-
-🎯 Strong Academic Performance (CGPA 9.2)
+🥉 **IEEE Hyderabad Project Expo** — 3rd Prize  
+🚀 **Smart India Hackathon** — Top 5%  
+📜 **Patent Published** — AI-Powered Career Guidance System  
+⚡ **APTRANSCO Internship Selection**  
+🤖 **Microsoft Azure AI-900 Certified**  
+🧠 **NVIDIA Deep Learning Certified**  
+☁️ **Salesforce AI Associate Certified**  
+🎯 **CGPA:** 9.2  
 
 ---
 
@@ -116,7 +96,7 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,sql,django,tensorflow,pytorch,postgresql,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,django,tensorflow,pytorch,sklearn,postgresql,mysql,git,github,vscode,linux"/>
 
 </div>
 
@@ -130,13 +110,10 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 ## 🤖 AI Career Guidance System
 
-📜 Patent Published
-
-✔ NLP + LLM Based
-
-✔ Multilingual Support
-
-✔ Personalized Recommendations
+📜 Patent Published  
+✔ NLP + LLM Based  
+✔ Multilingual Support  
+✔ Personalized Recommendations  
 
 </td>
 
@@ -144,11 +121,9 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 ## ⚡ Smart Grid Optimizer
 
-✔ Reinforcement Learning
-
-✔ Intelligent Load Balancing
-
-✔ Energy Optimization
+✔ Reinforcement Learning  
+✔ Intelligent Load Balancing  
+✔ Energy Optimization  
 
 </td>
 </tr>
@@ -158,13 +133,10 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 ## 🌐 APTRANSCO Shakti Portal
 
-✔ Transmission Loss Monitoring
-
-✔ Energy Billing System
-
-✔ Django + PostgreSQL
-
-✔ Enterprise Scale Application
+✔ Transmission Loss Monitoring  
+✔ Energy Billing System  
+✔ Django + PostgreSQL  
+✔ Enterprise Scale Application  
 
 </td>
 
@@ -172,11 +144,9 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 ## 👁️ YOLO Object Detection Assistant
 
-✔ Real-Time Detection
-
-✔ Audio Feedback
-
-✔ Accessibility Focused
+✔ Real-Time Detection  
+✔ Audio Feedback  
+✔ Accessibility Focused  
 
 </td>
 </tr>
@@ -184,17 +154,13 @@ AI-Powered Career Guidance System using NLP & LLMs
 
 ---
 
-# 🎥 Featured Portfolio Video
+# 🎥 Portfolio Video
 
 <div align="center">
 
-<a href="YOUR_VIDEO_LINK">
+### 🚀 Watch My AI & Development Journey
 
-<img src="./assets/ai-avatar.png" width="350"/>
-
-</a>
-
-### 🎬 Click Image To Watch My Portfolio Video
+[![Portfolio](https://img.shields.io/badge/Watch%20Portfolio%20Video-FF3CAC?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK)
 
 </div>
 
@@ -266,10 +232,6 @@ Goal:
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="https://www.hackerrank.com/profile/muthojupravalik1">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
@@ -282,7 +244,7 @@ Goal:
 
 ## 💜 AI • Research • Innovation • Impact
 
-### ✨ "Turning Ideas Into Intelligent Solutions"
+### ✨ “Turning Ideas Into Intelligent Solutions”
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff3cac,50:784ba0,100:2b86c5"/>
 
