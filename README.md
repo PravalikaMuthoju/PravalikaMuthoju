@@ -83,35 +83,42 @@ print("Welcome To My GitHub Universe 🚀")
 
 ---
 
-# ⚡ Technical Skills
+# ⚡ Tech Stack
 
-### Languages
-- Python
-- Java
-- C
-- SQL
+<div align="center">
 
-### AI & ML
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- NLP
-- Computer Vision
-- Generative AI
+### 👩‍💻 Programming Languages
 
-### Frameworks
-- Django
-- TensorFlow
-- PyTorch
-- Scikit-Learn
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 
-### Tools
-- Git
-- GitHub
-- PostgreSQL
-- MySQL
-- VS Code
-- Linux
+<br><br>
+
+### 🤖 AI / ML / Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF3CAC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-784BA0?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-2B86C5?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00C2FF?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6A11CB?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+### 🌐 Full Stack Development
+
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,postgresql,mysql" />
+
+<br><br>
+
+### 🛠 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+
+</div>
 
 ---
 
