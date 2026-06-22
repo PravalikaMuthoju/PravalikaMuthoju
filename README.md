@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff3cac,50:784ba0,100:2b86c5&text=PRAVALIKA%20MUTHOJU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
 
 </div>
 
@@ -63,19 +63,9 @@ print("Welcome To My GitHub Universe 🚀")
 
 🤖 AI Developer Intern at **Swecha Telangana**
 
-📜 Patent Published:
-**AI-Powered Career Guidance System using NLP & LLMs**
+📜 Patent Published: **AI-Powered Career Guidance System using NLP & LLMs**
 
-💡 Passionate about:
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- NLP
-- Computer Vision
-- Generative AI
-- Full Stack Development
+💡 Passionate about **AI, ML, Deep Learning, RL, NLP, Computer Vision, GenAI, and Full Stack Development**
 
 ---
 
@@ -87,7 +77,7 @@ print("Welcome To My GitHub Universe 🚀")
 
 📜 Patent Published — AI-Powered Career Guidance System
 
-⚡ APTRANSCO Internship Selection ALL India Level
+⚡ APTRANSCO Internship Selection — All India Level
 
 🤖 Microsoft Azure AI-900 Certified
 
@@ -113,18 +103,14 @@ print("Welcome To My GitHub Universe 🚀")
 
 <table>
 <tr>
-
 <td width="50%">
 
 ## 🤖 AI Career Guidance System
 
-📜 Patent Published
-
-✔ NLP + LLM Based
-
-✔ Multilingual Support
-
-✔ Personalized Recommendations
+📜 Patent Published  
+✔ NLP + LLM Based  
+✔ Multilingual Support  
+✔ Personalized Recommendations  
 
 </td>
 
@@ -132,29 +118,22 @@ print("Welcome To My GitHub Universe 🚀")
 
 ## ⚡ Smart Grid Optimizer
 
-✔ Reinforcement Learning
-
-✔ Intelligent Load Balancing
-
-✔ Energy Optimization
+✔ Reinforcement Learning  
+✔ Intelligent Load Balancing  
+✔ Energy Optimization  
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ## 🌐 APTRANSCO Shakti Portal
 
-✔ Transmission Loss Monitoring
-
-✔ Energy Billing Automation
-
-✔ Django + PostgreSQL
-
-✔ Enterprise Scale Application
+✔ Transmission Loss Monitoring  
+✔ Energy Billing Automation  
+✔ Django + PostgreSQL  
+✔ Enterprise Scale Application  
 
 </td>
 
@@ -162,14 +141,11 @@ print("Welcome To My GitHub Universe 🚀")
 
 ## 👁️ YOLOv8 Object Detection Assistant
 
-✔ Real-Time Detection
-
-✔ Audio Feedback System
-
-✔ Accessibility Focused AI
+✔ Real-Time Detection  
+✔ Audio Feedback System  
+✔ Accessibility Focused AI  
 
 </td>
-
 </tr>
 </table>
 
@@ -182,14 +158,12 @@ print("Welcome To My GitHub Universe 🚀")
 ### 🚀 Watch My AI & Development Journey
 
 <a href="https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=sharing">
-
 <img src="https://img.shields.io/badge/▶️%20WATCH%20MY%20PORTFOLIO-FF3CAC?style=for-the-badge&logo=google-drive&logoColor=white"/>
-
 </a>
 
 <br><br>
 
-💻 APTRANSCO  FullStack Developer • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
+💻 APTRANSCO Full Stack Developer • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
 
 </div>
 
