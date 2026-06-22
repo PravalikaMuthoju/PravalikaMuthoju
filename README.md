@@ -148,28 +148,21 @@ print("Welcome To My GitHub Universe 🚀")
 
 ---
 
-# 🎥 Featured Portfolio
-
-🔗 Portfolio Video:
-
-https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=sharing
-
----
 <h1 align="center">🎥 Featured Portfolio</h1>
 
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=sharing">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF3CAC&center=true&vCenter=true&width=600&lines=👉+CLICK+HERE+TO+WATCH+MY+PORTFOLIO+👈;🚀+AI+%7C+RESEARCH+%7C+PROJECTS+🚀"/>
 
 </a>
 
-<br>
+<br><br>
 
-<h3>👉 Click Here To Watch My Portfolio Video</h3>
+🎬 APTRANSCO Full Stack Development • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
 
 </div>
-
 # 📚 Current Focus
 
 ```yaml
