@@ -180,38 +180,28 @@ Goal:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+<a href="https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:muthojupravalika99@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+<a href="mailto:muthojupravalika99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/PravalikaMuthoju" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55" />
+<a href="https://github.com/PravalikaMuthoju">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/muthojupravalik1" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="1" height="1"/>
+<a href="https://www.hackerrank.com/profile/muthojupravalik1">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravalika%20Muthoju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-muthojupravalika99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthojupravalika99@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-PravalikaMuthoju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PravalikaMuthoju)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/muthojupravalik1)
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
+
 
 ---
 
