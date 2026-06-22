@@ -161,7 +161,6 @@ https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=shari
 
 <a href="https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=sharing">
 
-<img src="./assets/pointing-girl.png" width="280"/>
 
 </a>
 
