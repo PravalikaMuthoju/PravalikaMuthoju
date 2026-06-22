@@ -147,20 +147,15 @@ print("Welcome To My GitHub Universe 🚀")
 - Accessibility Focused AI
 
 ---
-
 <h1 align="center">🎥 Featured Portfolio</h1>
 
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=sharing">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF3CAC&center=true&vCenter=true&width=600&lines=👉+CLICK+HERE+TO+WATCH+MY+PORTFOLIO+👈;🚀+AI+%7C+RESEARCH+%7C+PROJECTS+🚀"/>
+<img src="https://img.shields.io/badge/▶️_WATCH_PORTFOLIO_VIDEO-FF1493?style=for-the-badge&logo=youtube&logoColor=white"/>
 
 </a>
-
-<br><br>
-
-🎬 APTRANSCO Full Stack Development • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
 
 </div>
 # 📚 Current Focus
