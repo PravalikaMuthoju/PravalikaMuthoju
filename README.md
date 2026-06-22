@@ -178,17 +178,40 @@ Goal:
 
 # 🌐 Connect With Me
 
-- LinkedIn:
-  https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/
+<div align="center">
 
-- GitHub:
-  https://github.com/PravalikaMuthoju
+<a href="https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
 
-- HackerRank:
-  https://www.hackerrank.com/profile/muthojupravalik1
+<a href="mailto:muthojupravalika99@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
 
-- Email:
-  muthojupravalika99@gmail.com
+<a href="https://github.com/PravalikaMuthoju" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/muthojupravalik1" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="1" height="1"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravalika%20Muthoju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravalika-muthoju-024ab12a8/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-muthojupravalika99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthojupravalika99@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-PravalikaMuthoju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PravalikaMuthoju)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/muthojupravalik1)
+
+</div>
 
 ---
 
