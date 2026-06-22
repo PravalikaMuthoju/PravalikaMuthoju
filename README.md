@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff3cac,50:784ba0,100:2b86c5&text=PRAVALIKA%20MUTHOJU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+in+Progress+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=PravalikaMuthoju&label=PROFILE+VIEWS&color=ff3cac&style=for-the-badge"/>
 
@@ -12,9 +12,9 @@
 
 ---
 
-<div align="center">
-
 # 🌌 Welcome To My Digital Universe
+
+<div align="center">
 
 ### 🚀 AI Engineer • Researcher • Developer
 
@@ -41,7 +41,7 @@ class PravalikaMuthoju:
         "AI Developer Intern @ Swecha Telangana"
     ]
 
-    ai_interests = [
+    interests = [
         "Machine Learning",
         "Deep Learning",
         "Reinforcement Learning",
@@ -50,16 +50,16 @@ class PravalikaMuthoju:
         "Generative AI"
     ]
 
-    mission = "Turning ideas into intelligent real-world solutions"
+    mission = "Turning innovative ideas into intelligent solutions"
 
-print("Welcome to my GitHub Universe 🚀")
+print("Welcome To My GitHub Universe 🚀")
 ```
 
 ---
 
 # 🌟 About Me
 
-✨ B.Tech CSE **AI & ML** student at **SR University**
+🎓 B.Tech CSE (AI & ML) Student at **SR University**
 
 ⚡ Full Stack Developer Intern at **APTRANSCO**
 
@@ -67,9 +67,19 @@ print("Welcome to my GitHub Universe 🚀")
 
 🤖 AI Developer Intern at **Swecha Telangana**
 
-📜 Patent Published: **AI-Powered Career Guidance System using NLP & LLMs**
+📜 Patent Published:
+**AI-Powered Career Guidance System using NLP & LLMs**
 
-💡 Passionate about **AI, ML, RL, GenAI, Computer Vision, NLP, and Full Stack Development**
+💡 Passionate about:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- NLP
+- Computer Vision
+- Generative AI
+- Full Stack Development
 
 ---
 
@@ -77,18 +87,25 @@ print("Welcome to my GitHub Universe 🚀")
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PravalikaMuthoju&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PravalikaMuthoju&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
-🥉 **IEEE Hyderabad Project Expo** — 3rd Prize  
-🚀 **Smart India Hackathon** — Top 5%  
-📜 **Patent Published** — AI-Powered Career Guidance System  
-⚡ **APTRANSCO Internship Selection**  
-🤖 **Microsoft Azure AI-900 Certified**  
-🧠 **NVIDIA Deep Learning Certified**  
-☁️ **Salesforce AI Associate Certified**  
-🎯 **CGPA:** 9.2  
+🥉 IEEE Hyderabad Project Expo — 3rd Prize
+
+🚀 Smart India Hackathon — Top 5%
+
+📜 Patent Published
+
+⚡ APTRANSCO Internship Selection
+
+🤖 Microsoft Azure AI-900 Certified
+
+🧠 NVIDIA Deep Learning Certified
+
+☁️ Salesforce AI Associate Certified
+
+🎯 CGPA: 9.2
 
 ---
 
@@ -106,14 +123,18 @@ print("Welcome to my GitHub Universe 🚀")
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🤖 AI Career Guidance System
 
-📜 Patent Published  
-✔ NLP + LLM Based  
-✔ Multilingual Support  
-✔ Personalized Recommendations  
+📜 Patent Published
+
+✔ NLP + LLM Based
+
+✔ Multilingual Support
+
+✔ Personalized Recommendations
 
 </td>
 
@@ -121,46 +142,64 @@ print("Welcome to my GitHub Universe 🚀")
 
 ## ⚡ Smart Grid Optimizer
 
-✔ Reinforcement Learning  
-✔ Intelligent Load Balancing  
-✔ Energy Optimization  
+✔ Reinforcement Learning
+
+✔ Intelligent Load Balancing
+
+✔ Energy Optimization
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 🌐 APTRANSCO Shakti Portal
 
-✔ Transmission Loss Monitoring  
-✔ Energy Billing System  
-✔ Django + PostgreSQL  
-✔ Enterprise Scale Application  
+✔ Transmission Loss Monitoring
+
+✔ Energy Billing Automation
+
+✔ Django + PostgreSQL
+
+✔ Enterprise Scale Application
 
 </td>
 
 <td width="50%">
 
-## 👁️ YOLO Object Detection Assistant
+## 👁️ YOLOv8 Object Detection Assistant
 
-✔ Real-Time Detection  
-✔ Audio Feedback  
-✔ Accessibility Focused  
+✔ Real-Time Detection
+
+✔ Audio Feedback System
+
+✔ Accessibility Focused AI
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🎥 Portfolio Video
+# 🎥 Featured Portfolio
 
 <div align="center">
 
 ### 🚀 Watch My AI & Development Journey
 
-[![Portfolio](https://img.shields.io/badge/Watch%20Portfolio%20Video-FF3CAC?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK)
+<a href="https://drive.google.com/file/d/1TdN7fdq5t_h4JGcfr-nTWanN1eZ6kG70/view?usp=sharing">
+
+<img src="https://img.shields.io/badge/▶️%20WATCH%20MY%20PORTFOLIO-FF3CAC?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+💻 APTRANSCO Developer • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
 
 </div>
 
@@ -186,16 +225,6 @@ print("Welcome to my GitHub Universe 🚀")
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 📚 Current Focus
 
 ```yaml
@@ -203,7 +232,7 @@ Learning:
   - Deep Learning
   - Reinforcement Learning
   - Generative AI
-  - LLM Applications
+  - Large Language Models
 
 Building:
   - AI Solutions
@@ -225,11 +254,11 @@ Goal:
 </a>
 
 <a href="mailto:muthojupravalika99@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/PravalikaMuthoju">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/muthojupravalik1">
@@ -240,11 +269,23 @@ Goal:
 
 ---
 
+# 💜 Fun Facts
+
+☕ I debug faster with coffee
+
+🤖 Passion: Turning ideas into AI solutions
+
+📚 Always learning something new in AI
+
+⚡ Love solving real-world problems with technology
+
+---
+
 <div align="center">
 
 ## 💜 AI • Research • Innovation • Impact
 
-### ✨ “Turning Ideas Into Intelligent Solutions”
+### ✨ "Turning Ideas Into Intelligent Solutions"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff3cac,50:784ba0,100:2b86c5"/>
 
