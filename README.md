@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+🤖;Full+Stack+Developer+💻;Research+Intern+@+NIT+Warangal+🔬;APTRANSCO+Developer+⚡;Patent+Holder+📜;Building+AI+for+Real-World+Impact+🚀"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=PravalikaMuthoju&label=PROFILE+VIEWS&color=ff3cac&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -83,21 +79,15 @@ print("Welcome To My GitHub Universe 🚀")
 
 ---
 
-# 🏆 Achievement Galaxy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PravalikaMuthoju&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
+# 🏆 Achievements
 
 🥉 IEEE Hyderabad Project Expo — 3rd Prize
 
 🚀 Smart India Hackathon — Top 5%
 
-📜 Patent Published
+📜 Patent Published — AI-Powered Career Guidance System
 
-⚡ APTRANSCO Internship Selection
+⚡ APTRANSCO Internship Selection ALL India Level
 
 🤖 Microsoft Azure AI-900 Certified
 
@@ -199,7 +189,7 @@ print("Welcome To My GitHub Universe 🚀")
 
 <br><br>
 
-💻 APTRANSCO Developer • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
+💻 APTRANSCO  FullStack Developer • 🔬 NIT Warangal Research • 🤖 AI Projects • 📜 Patent Published
 
 </div>
 
